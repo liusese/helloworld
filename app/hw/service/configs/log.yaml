@@ -1,0 +1,7 @@
+dir: logs/gdi.log
+level: warn # panic fatal error warn/warning info debug trace
+max_size: 1024
+max_backups: 15
+max_age: 120
+compress: true
+json_formatter: true
